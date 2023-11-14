@@ -1,11 +1,16 @@
 _repo: The-zoological-gardens-of-Europe_71837
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71837-h/images/cover.jpg
 creator:
   author:
     agent_name: Peel, Charles Victor Alexander
     gutenberg_agent_id: '56420'
     url: http://www.gutenberg.org/2009/agents/56420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71837#The-zoological-gardens-of-Europe
 gutenberg_issued: '2023-10-08'
 identifiers:
   gutenberg: '71837'
